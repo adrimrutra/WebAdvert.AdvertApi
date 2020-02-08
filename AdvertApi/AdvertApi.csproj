@@ -10,7 +10,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebAdvert.Models\WebAdvert.Models.csproj" />
+    <ProjectReference Include="..\WebAdvert.Models\AdvertApi.Models.csproj" />
   </ItemGroup>
 
 </Project>

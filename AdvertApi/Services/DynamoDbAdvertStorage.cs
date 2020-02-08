@@ -3,7 +3,6 @@ using AdvertApi.Models;
 using AutoMapper;
 using System;
 using System.Threading.Tasks;
-using WebAdvert.Models;
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
 using System.Collections.Generic;

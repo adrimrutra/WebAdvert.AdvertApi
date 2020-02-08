@@ -1,6 +1,5 @@
 ﻿using Amazon.DynamoDBv2.DataModel;
 using System;
-using WebAdvert.Models;
 
 namespace AdvertApi.Models
 {

@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertApi", "AdvertApi.csproj", "{709089A7-6B7D-44F5-9D20-C02D87EE673D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAdvert.Models", "..\WebAdvert.Models\WebAdvert.Models.csproj", "{6BD12CCD-D055-4894-B3DC-DC4B1BE465C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertApi.Models", "..\WebAdvert.Models\AdvertApi.Models.csproj", "{6BD12CCD-D055-4894-B3DC-DC4B1BE465C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

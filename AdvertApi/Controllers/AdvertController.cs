@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using AdvertApi.Interfaces;
 using Microsoft.AspNetCore.Mvc;
-using WebAdvert.Models;
+using AdvertApi.Models;
 
 namespace AdvertApi.Controllers
 {

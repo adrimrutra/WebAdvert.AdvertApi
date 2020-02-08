@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace WebAdvert.Models
+namespace AdvertApi.Models
 {
     public class CreateAdvertResponse
     {

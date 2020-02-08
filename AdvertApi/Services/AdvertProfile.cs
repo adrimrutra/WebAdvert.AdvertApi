@@ -1,6 +1,5 @@
 ﻿using AdvertApi.Models;
 using AutoMapper;
-using WebAdvert.Models;
 
 namespace AdvertApi.Services
 {

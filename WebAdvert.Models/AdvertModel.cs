@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace WebAdvert.Models
+﻿namespace AdvertApi.Models
 {
     public class AdvertModel
     {
