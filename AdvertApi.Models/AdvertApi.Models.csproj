@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <Authors>Artur Mirda</Authors>
-    <Company>NoneArtur Mirda</Company>
+    <Company>None</Company>
     <Product>Web Advert Microservices</Product>
     <PackageProjectUrl>https://github.com/adrimrutra/WebAdvert.AdvertApi</PackageProjectUrl>
     <RepositoryUrl>https://github.com/adrimrutra/WebAdvert.AdvertApi</RepositoryUrl>
